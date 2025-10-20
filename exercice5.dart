@@ -38,7 +38,6 @@ void main() {
   cercle1.afficherMessage();
   print("L'aire du cercle est : ${cercle1.calculerAire()}");
 
-  print(""); 
 
   rect1.afficherMessage();
   print("L'aire du rectangle est : ${rect1.calculerAire()}");
